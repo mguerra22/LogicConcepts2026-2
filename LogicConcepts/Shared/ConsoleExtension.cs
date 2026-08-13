@@ -25,20 +25,55 @@ public static class ConsoleExtension
         return null;
     }
 
-    public static bool IsLeapYear(int year)
+    public class DateUtilities
     {
-        if (year % 4 == 0)
+        public static bool IsLeapYear(int year)
         {
-            if (year % 100 == 0)
+            if (year % 4 == 0)
             {
-                if (year % 400 == 0)
+                if (year % 100 == 0)
                 {
-                    return true;
+                    if (year % 400 == 0)
+                    {
+                        return true;
+                    }
+                    return false;
                 }
-                return false;
+                return true;
             }
-            return true;
+            return false;
         }
-        return false;
     }
+
+    public static string? GetString(string message)
+    {
+        Console.Write(message);
+        var text = Console.ReadLine();
+        return text;
+    }
+
+    public static float GetFloat(string message)
+    {
+        Console.Write(message);
+        var numberString = Console.ReadLine();
+        if (float.TryParse(numberString, out float numberFloat))
+        {
+            return numberFloat;
+        }
+
+        return 0;
+    }
+
+    public static decimal GetDecimal(string message)
+    {
+        Console.Write(message);
+        var numberString = Console.ReadLine();
+        if (decimal.TryParse(numberString, out decimal numberDecimal))
+        {
+            return numberDecimal;
+        }
+
+        return 0;
+    }
+
 }

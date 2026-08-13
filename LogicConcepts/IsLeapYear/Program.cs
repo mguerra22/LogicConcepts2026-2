@@ -1,4 +1,5 @@
 ﻿using Shared;
+using static Shared.ConsoleExtension;
 
 var answer = string.Empty;
 var options = new List<string> { "s", "n" };
