@@ -5,4 +5,10 @@
   <Folder Name="/02/">
     <Project Path="TheGreathestNumber/TheGreathestNumber.csproj" Id="1dd8e31d-4821-4850-8a24-fc85885b0267" />
   </Folder>
+  <Folder Name="/03/">
+    <Project Path="SortNumbers/SortNumbers.csproj" Id="8d0b6cf2-981d-4c04-b322-381fb5460825" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="b130697c-fbd7-494e-b28e-c3b99e3d2dab" />
+  </Folder>
 </Solution>
