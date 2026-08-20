@@ -44,6 +44,12 @@
   <Folder Name="/15/">
     <Project Path="TaylorModified/TaylorModified.csproj" Id="a8c23ecb-9542-4d0c-8431-558c1cae21db" />
   </Folder>
+  <Folder Name="/16/">
+    <Project Path="QuadraticEquations/QuadraticEquations.csproj" Id="a660b868-3347-4fef-8f92-dbd91ccaf573" />
+  </Folder>
+  <Folder Name="/17/">
+    <Project Path="Fibonacci/Fibonacci.csproj" Id="8a9d3c25-f212-4536-846b-059bd0b701db" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="b130697c-fbd7-494e-b28e-c3b99e3d2dab" />
   </Folder>
