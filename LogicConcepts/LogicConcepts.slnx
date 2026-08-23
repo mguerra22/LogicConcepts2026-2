@@ -56,6 +56,9 @@
   <Folder Name="/19/">
     <Project Path="IsPrime/IsPrime.csproj" Id="68a4c280-36e3-4f3c-89dc-4f10f11fc340" />
   </Folder>
+  <Folder Name="/20/">
+    <Project Path="PrimeNumbers/PrimeNumbers.csproj" Id="81b972bb-58ba-45ee-b9ee-0bd580b65cf6" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="b130697c-fbd7-494e-b28e-c3b99e3d2dab" />
   </Folder>
