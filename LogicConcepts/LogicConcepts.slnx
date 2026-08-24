@@ -71,6 +71,9 @@
   <Folder Name="/24/">
     <Project Path="EvenAndOdds/EvenAndOdds.csproj" Id="3759476e-398d-482c-8eb5-f4f958454e39" />
   </Folder>
+  <Folder Name="/25/">
+    <Project Path="ArrayOperations/ArrayOperations.csproj" Id="30661ed6-59d1-4240-b478-85314ffa3030" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="b130697c-fbd7-494e-b28e-c3b99e3d2dab" />
   </Folder>
