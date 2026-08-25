@@ -74,6 +74,9 @@
   <Folder Name="/25/">
     <Project Path="ArrayOperations/ArrayOperations.csproj" Id="30661ed6-59d1-4240-b478-85314ffa3030" />
   </Folder>
+  <Folder Name="/26/">
+    <Project Path="SpecialOrderArray/SpecialOrderArray.csproj" Id="09d51104-4695-4ef5-aa4f-50fed10cdc4f" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" Id="b130697c-fbd7-494e-b28e-c3b99e3d2dab" />
   </Folder>
